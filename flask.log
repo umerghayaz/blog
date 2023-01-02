@@ -1,0 +1,32 @@
+2022-12-26 16:10:35,171 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8948
+2022-12-26 16:10:35,172 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2022-12-26 16:10:47,447 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8948
+2022-12-26 16:10:47,447 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2022-12-26 16:11:16,946 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2022 16:11:16] "GET /search?q= HTTP/1.1" 200 -
+2022-12-26 16:11:16,998 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2022 16:11:16] "[33mGET /static/js/jquery-3.2.1.min.js HTTP/1.1[0m" 404 -
+2022-12-26 16:11:17,003 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2022 16:11:17] "[33mGET /static/js/popper.js HTTP/1.1[0m" 404 -
+2022-12-26 16:11:17,006 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2022 16:11:17] "[33mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 404 -
+2022-12-26 16:11:17,014 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2022 16:11:17] "[33mGET /static/images/logo.png HTTP/1.1[0m" 404 -
+2022-12-26 16:11:17,027 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2022 16:11:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-12-26 16:11:17,360 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2022 16:11:17] "GET /search?q= HTTP/1.1" 200 -
+2022-12-26 16:11:17,393 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2022 16:11:17] "[33mGET /static/js/jquery-3.2.1.min.js HTTP/1.1[0m" 404 -
+2022-12-26 16:11:17,395 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2022 16:11:17] "[33mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 404 -
+2022-12-26 16:11:17,400 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2022 16:11:17] "[33mGET /static/js/popper.js HTTP/1.1[0m" 404 -
+2022-12-26 16:11:17,408 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2022 16:11:17] "[33mGET /static/images/logo.png HTTP/1.1[0m" 404 -
+2022-12-26 16:11:17,412 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2022 16:11:17] "[33mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 404 -
+2022-12-26 16:11:17,853 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2022 16:11:17] "GET /search?q= HTTP/1.1" 200 -
+2022-12-26 16:11:17,890 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2022 16:11:17] "[33mGET /static/js/jquery-3.2.1.min.js HTTP/1.1[0m" 404 -
+2022-12-26 16:11:17,893 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2022 16:11:17] "[33mGET /static/js/popper.js HTTP/1.1[0m" 404 -
+2022-12-26 16:11:17,897 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2022 16:11:17] "[33mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 404 -
+2022-12-26 16:11:17,903 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2022 16:11:17] "[33mGET /static/images/logo.png HTTP/1.1[0m" 404 -
+2022-12-26 16:11:17,912 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2022 16:11:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-12-26 16:35:55,007 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2022 16:35:55] "GET / HTTP/1.1" 200 -
+2022-12-26 16:35:55,212 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2022 16:35:55] "[33mGET /static/images/logo.png HTTP/1.1[0m" 404 -
+2022-12-26 16:35:55,231 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2022 16:35:55] "[33mGET /static/js/jquery-3.2.1.min.js HTTP/1.1[0m" 404 -
+2022-12-26 16:35:55,247 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2022 16:35:55] "[33mGET /static/js/popper.js HTTP/1.1[0m" 404 -
+2022-12-26 16:35:55,255 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2022 16:35:55] "[33mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 404 -
+2022-12-26 16:35:55,272 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2022 16:35:55] "[33mGET /static/js/jquery-3.2.1.min.js HTTP/1.1[0m" 404 -
+2022-12-26 16:35:55,279 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2022 16:35:55] "[33mGET /static/js/popper.js HTTP/1.1[0m" 404 -
+2022-12-26 16:35:55,304 - werkzeug - INFO - 127.0.0.1 - - [26/Dec/2022 16:35:55] "[33mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 404 -

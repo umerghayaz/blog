@@ -1,0 +1,11 @@
+[12-26 16:49:24] p15240 {C:\Users\IT\PycharmProjects\flaskblog\app.py:278} INFO - Logging is set up.
+[12-26 16:50:04] p18592 {C:\Users\IT\PycharmProjects\flaskblog\app.py:278} INFO - Logging is set up.
+[12-26 16:53:21] p23128 {C:\Users\IT\PycharmProjects\flaskblog\app.py:278} INFO - Logging is set up.
+[12-26 17:05:35] p10568 {C:\Users\IT\PycharmProjects\flaskblog\app.py:278} INFO - Logging is set up.
+[12-26 17:05:35] p10568 {C:\Users\IT\PycharmProjects\flaskblog\app.py:279} DEBUG - debug log info
+[12-26 17:05:35] p10568 {C:\Users\IT\PycharmProjects\flaskblog\app.py:280} INFO - Info log information
+[12-26 17:05:35] p10568 {C:\Users\IT\PycharmProjects\flaskblog\app.py:281} WARNING - Warning log info
+[12-26 17:05:35] p10568 {C:\Users\IT\PycharmProjects\flaskblog\app.py:282} ERROR - Error log info
+[12-26 17:05:35] p10568 {C:\Users\IT\PycharmProjects\flaskblog\app.py:283} CRITICAL - Critical log info
+[12-26 17:19:03] p22352 {C:\Users\IT\PycharmProjects\flaskblog\app.py:278} INFO - Logging is set up.
+[12-26 17:38:13] p20328 {C:\Users\IT\PycharmProjects\flaskblog\app.py:278} INFO - Logging is set up.

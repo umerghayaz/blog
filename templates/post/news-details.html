@@ -1,0 +1,91 @@
+{% extends 'post/base.html' %}
+{% block content %}
+         
+        <section class="news_area single-post-area p_100">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8">
+                        <div class="main_blog_details">
+                            <img class="img-fluid" src="{{url_for('static',filename='images/' + post.image)}}" alt="" style="width:100%; height: 400px;">
+                            <h4> {{post.title}} </h4>
+                            <div class="user_details">
+                                <div class="float-left">
+                                    <a href="#">Python</a>
+                                    <a href="#">Flask</a>
+                                </div>
+                                <div class="float-right">
+                                    <div class="media">
+                                        <div class="media-body">
+                                            <h5>Cairocoder</h5>
+                                            <p>12 Dec, 2020 11:21 am</p>
+                                        </div>    
+                                    </div>
+                                </div>
+                            </div>
+                            <p>{{post.body}}</p>
+                         
+                            <div class="news_d_footer">
+                                <a href="#"><i class="lnr lnr lnr-heart"></i>cairocoders and 4 people like this</a>
+                                <a class="justify-content-center ml-auto" href="#"><i class="lnr lnr lnr-bubble"></i> {{post.views }} Views  | {{post.comments}} Comments</a>
+                                <div class="news_socail ml-auto">
+                                    <a href="#"><i class="fa fa-facebook"></i></a>
+                                    <a href="#"><i class="fa fa-twitter"></i></a>
+                                    <a href="#"><i class="fa fa-youtube-play"></i></a>
+                                    <a href="#"><i class="fa fa-pinterest"></i></a>
+                                    <a href="#"><i class="fa fa-rss"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="comments-area">
+                            <h4>{{post.comments}} Comments</h4>
+                            {% for message in comment %}
+                            <div class="comment-list">
+                                <div class="single-comment justify-content-between d-flex">
+                                    <div class="user justify-content-between d-flex">
+                                        <div class="thumb">
+                                            <img src="img/blog/c1.jpg" alt="">
+                                        </div>
+                                         
+                                        <div class="desc">
+                                            <h5><a href="#">{{message.name}}</a></h5>
+                                            <p class="date">{{message.date_pub.strftime('%Y')}}</p>
+                                            <p class="comment">
+                                                {{message.message}}
+                                            </p>
+                                        </div>
+                                         
+                                    </div>
+                                    <div class="reply-btn">
+                                           <!-- <a href="" class="btn-reply text-uppercase">reply</a>  -->
+                                    </div>
+                                </div>
+                            </div>    
+                            {% endfor %}
+                                                                                             
+                        </div>
+                        <div class="comment-form">
+                            {% include 'admin/messages.html' %}
+                            <h4>Leave a Comment</h4>
+                            <form method="POST">
+                                <div class="form-group form-inline">
+                                  <div class="form-group col-lg-6 col-md-6 name">
+                                    <input type="text" name="name" class="form-control" id="name" placeholder="Enter Name" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Name'">
+                                  </div>
+                                  <div class="form-group col-lg-6 col-md-6 email">
+                                    <input type="email" name="email" class="form-control" id="email" placeholder="Enter email address" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter email address'">
+                                  </div>                                      
+                                </div>
+                                <div class="form-group">
+                                    <textarea name="message" class="form-control mb-10" rows="5" name="message" placeholder="Messege" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Messege'" required=""></textarea>
+                                </div>
+                                <button type="submit" class="primary-btn submit_btn">Post Comment</button>  
+                            </form>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        Right Side
+                    </div>
+                </div>
+            </div>
+        </section>    
+       {% endblock content %}

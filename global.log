@@ -1,0 +1,68 @@
+[2022-12-26 16:49:24,375] p15240 {C:\Users\IT\PycharmProjects\flaskblog\app.py:278} INFO - Logging is set up.
+[2022-12-26 16:49:24,392] p15240 {C:\Users\IT\PycharmProjects\flaskblog\venv\lib\site-packages\werkzeug\_internal.py:224} INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8948
+[2022-12-26 16:49:24,392] p15240 {C:\Users\IT\PycharmProjects\flaskblog\venv\lib\site-packages\werkzeug\_internal.py:224} INFO - [33mPress CTRL+C to quit[0m
+[2022-12-26 16:50:04,719] p18592 {C:\Users\IT\PycharmProjects\flaskblog\app.py:278} INFO - Logging is set up.
+[2022-12-26 16:50:04,738] p18592 {C:\Users\IT\PycharmProjects\flaskblog\venv\lib\site-packages\werkzeug\_internal.py:224} INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8948
+[2022-12-26 16:50:04,738] p18592 {C:\Users\IT\PycharmProjects\flaskblog\venv\lib\site-packages\werkzeug\_internal.py:224} INFO - [33mPress CTRL+C to quit[0m
+[2022-12-26 16:53:21,518] p23128 {C:\Users\IT\PycharmProjects\flaskblog\app.py:278} INFO - Logging is set up.
+[2022-12-26 16:53:21,538] p23128 {C:\Users\IT\PycharmProjects\flaskblog\venv\lib\site-packages\werkzeug\_internal.py:224} INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8948
+[2022-12-26 16:53:21,538] p23128 {C:\Users\IT\PycharmProjects\flaskblog\venv\lib\site-packages\werkzeug\_internal.py:224} INFO - [33mPress CTRL+C to quit[0m
+[2022-12-26 16:53:32,807] p23128 {C:\Users\IT\PycharmProjects\flaskblog\venv\lib\site-packages\werkzeug\_internal.py:224} INFO - 127.0.0.1 - - [26/Dec/2022 16:53:32] "GET / HTTP/1.1" 200 -
+[2022-12-26 16:53:32,837] p23128 {C:\Users\IT\PycharmProjects\flaskblog\venv\lib\site-packages\werkzeug\_internal.py:224} INFO - 127.0.0.1 - - [26/Dec/2022 16:53:32] "[33mGET /static/js/jquery-3.2.1.min.js HTTP/1.1[0m" 404 -
+[2022-12-26 16:53:32,839] p23128 {C:\Users\IT\PycharmProjects\flaskblog\venv\lib\site-packages\werkzeug\_internal.py:224} INFO - 127.0.0.1 - - [26/Dec/2022 16:53:32] "[33mGET /static/js/popper.js HTTP/1.1[0m" 404 -
+[2022-12-26 16:53:32,843] p23128 {C:\Users\IT\PycharmProjects\flaskblog\venv\lib\site-packages\werkzeug\_internal.py:224} INFO - 127.0.0.1 - - [26/Dec/2022 16:53:32] "[33mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 404 -
+[2022-12-26 16:53:32,846] p23128 {C:\Users\IT\PycharmProjects\flaskblog\venv\lib\site-packages\werkzeug\_internal.py:224} INFO - 127.0.0.1 - - [26/Dec/2022 16:53:32] "[33mGET /static/images/logo.png HTTP/1.1[0m" 404 -
+[2022-12-26 16:53:32,860] p23128 {C:\Users\IT\PycharmProjects\flaskblog\venv\lib\site-packages\werkzeug\_internal.py:224} INFO - 127.0.0.1 - - [26/Dec/2022 16:53:32] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2022-12-26 16:53:33,723] p23128 {C:\Users\IT\PycharmProjects\flaskblog\venv\lib\site-packages\werkzeug\_internal.py:224} INFO - 127.0.0.1 - - [26/Dec/2022 16:53:33] "GET /search?q= HTTP/1.1" 200 -
+[2022-12-26 16:53:33,778] p23128 {C:\Users\IT\PycharmProjects\flaskblog\venv\lib\site-packages\werkzeug\_internal.py:224} INFO - 127.0.0.1 - - [26/Dec/2022 16:53:33] "[33mGET /static/images/logo.png HTTP/1.1[0m" 404 -
+[2022-12-26 16:53:33,780] p23128 {C:\Users\IT\PycharmProjects\flaskblog\venv\lib\site-packages\werkzeug\_internal.py:224} INFO - 127.0.0.1 - - [26/Dec/2022 16:53:33] "[33mGET /static/js/jquery-3.2.1.min.js HTTP/1.1[0m" 404 -
+[2022-12-26 16:53:33,786] p23128 {C:\Users\IT\PycharmProjects\flaskblog\venv\lib\site-packages\werkzeug\_internal.py:224} INFO - 127.0.0.1 - - [26/Dec/2022 16:53:33] "[33mGET /static/js/popper.js HTTP/1.1[0m" 404 -
+[2022-12-26 16:53:33,793] p23128 {C:\Users\IT\PycharmProjects\flaskblog\venv\lib\site-packages\werkzeug\_internal.py:224} INFO - 127.0.0.1 - - [26/Dec/2022 16:53:33] "[33mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 404 -
+[2022-12-26 16:53:33,801] p23128 {C:\Users\IT\PycharmProjects\flaskblog\venv\lib\site-packages\werkzeug\_internal.py:224} INFO - 127.0.0.1 - - [26/Dec/2022 16:53:33] "[33mGET /static/js/popper.js HTTP/1.1[0m" 404 -
+[2022-12-26 16:53:33,809] p23128 {C:\Users\IT\PycharmProjects\flaskblog\venv\lib\site-packages\werkzeug\_internal.py:224} INFO - 127.0.0.1 - - [26/Dec/2022 16:53:33] "[33mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 404 -
+[2022-12-26 16:53:33,947] p23128 {C:\Users\IT\PycharmProjects\flaskblog\venv\lib\site-packages\werkzeug\_internal.py:224} INFO - 127.0.0.1 - - [26/Dec/2022 16:53:33] "GET /search?q= HTTP/1.1" 200 -
+[2022-12-26 16:53:33,990] p23128 {C:\Users\IT\PycharmProjects\flaskblog\venv\lib\site-packages\werkzeug\_internal.py:224} INFO - 127.0.0.1 - - [26/Dec/2022 16:53:33] "[33mGET /static/js/jquery-3.2.1.min.js HTTP/1.1[0m" 404 -
+[2022-12-26 16:53:33,993] p23128 {C:\Users\IT\PycharmProjects\flaskblog\venv\lib\site-packages\werkzeug\_internal.py:224} INFO - 127.0.0.1 - - [26/Dec/2022 16:53:33] "[33mGET /static/js/popper.js HTTP/1.1[0m" 404 -
+[2022-12-26 16:53:33,998] p23128 {C:\Users\IT\PycharmProjects\flaskblog\venv\lib\site-packages\werkzeug\_internal.py:224} INFO - 127.0.0.1 - - [26/Dec/2022 16:53:33] "[33mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 404 -
+[2022-12-26 16:53:34,007] p23128 {C:\Users\IT\PycharmProjects\flaskblog\venv\lib\site-packages\werkzeug\_internal.py:224} INFO - 127.0.0.1 - - [26/Dec/2022 16:53:34] "[33mGET /static/images/logo.png HTTP/1.1[0m" 404 -
+[2022-12-26 17:05:35,694] p10568 {C:\Users\IT\PycharmProjects\flaskblog\app.py:278} INFO - Logging is set up.
+[2022-12-26 17:05:35,695] p10568 {C:\Users\IT\PycharmProjects\flaskblog\app.py:279} DEBUG - debug log info
+[2022-12-26 17:05:35,695] p10568 {C:\Users\IT\PycharmProjects\flaskblog\app.py:280} INFO - Info log information
+[2022-12-26 17:05:35,695] p10568 {C:\Users\IT\PycharmProjects\flaskblog\app.py:281} WARNING - Warning log info
+[2022-12-26 17:05:35,695] p10568 {C:\Users\IT\PycharmProjects\flaskblog\app.py:282} ERROR - Error log info
+[2022-12-26 17:05:35,696] p10568 {C:\Users\IT\PycharmProjects\flaskblog\app.py:283} CRITICAL - Critical log info
+[2022-12-26 17:05:35,713] p10568 {C:\Users\IT\PycharmProjects\flaskblog\venv\lib\site-packages\werkzeug\_internal.py:224} INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8948
+[2022-12-26 17:05:35,714] p10568 {C:\Users\IT\PycharmProjects\flaskblog\venv\lib\site-packages\werkzeug\_internal.py:224} INFO - [33mPress CTRL+C to quit[0m
+[2022-12-26 17:05:45,164] p10568 {C:\Users\IT\PycharmProjects\flaskblog\venv\lib\site-packages\werkzeug\_internal.py:224} INFO - 127.0.0.1 - - [26/Dec/2022 17:05:45] "GET /search?q= HTTP/1.1" 200 -
+[2022-12-26 17:05:45,205] p10568 {C:\Users\IT\PycharmProjects\flaskblog\venv\lib\site-packages\werkzeug\_internal.py:224} INFO - 127.0.0.1 - - [26/Dec/2022 17:05:45] "[33mGET /static/js/jquery-3.2.1.min.js HTTP/1.1[0m" 404 -
+[2022-12-26 17:05:45,216] p10568 {C:\Users\IT\PycharmProjects\flaskblog\venv\lib\site-packages\werkzeug\_internal.py:224} INFO - 127.0.0.1 - - [26/Dec/2022 17:05:45] "[33mGET /static/js/popper.js HTTP/1.1[0m" 404 -
+[2022-12-26 17:05:45,217] p10568 {C:\Users\IT\PycharmProjects\flaskblog\venv\lib\site-packages\werkzeug\_internal.py:224} INFO - 127.0.0.1 - - [26/Dec/2022 17:05:45] "[33mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 404 -
+[2022-12-26 17:05:45,221] p10568 {C:\Users\IT\PycharmProjects\flaskblog\venv\lib\site-packages\werkzeug\_internal.py:224} INFO - 127.0.0.1 - - [26/Dec/2022 17:05:45] "[33mGET /static/images/logo.png HTTP/1.1[0m" 404 -
+[2022-12-26 17:05:45,242] p10568 {C:\Users\IT\PycharmProjects\flaskblog\venv\lib\site-packages\werkzeug\_internal.py:224} INFO - 127.0.0.1 - - [26/Dec/2022 17:05:45] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2022-12-26 17:05:45,716] p10568 {C:\Users\IT\PycharmProjects\flaskblog\venv\lib\site-packages\werkzeug\_internal.py:224} INFO - 127.0.0.1 - - [26/Dec/2022 17:05:45] "GET /search?q= HTTP/1.1" 200 -
+[2022-12-26 17:05:45,757] p10568 {C:\Users\IT\PycharmProjects\flaskblog\venv\lib\site-packages\werkzeug\_internal.py:224} INFO - 127.0.0.1 - - [26/Dec/2022 17:05:45] "[33mGET /static/images/logo.png HTTP/1.1[0m" 404 -
+[2022-12-26 17:05:45,759] p10568 {C:\Users\IT\PycharmProjects\flaskblog\venv\lib\site-packages\werkzeug\_internal.py:224} INFO - 127.0.0.1 - - [26/Dec/2022 17:05:45] "[33mGET /static/js/jquery-3.2.1.min.js HTTP/1.1[0m" 404 -
+[2022-12-26 17:05:45,764] p10568 {C:\Users\IT\PycharmProjects\flaskblog\venv\lib\site-packages\werkzeug\_internal.py:224} INFO - 127.0.0.1 - - [26/Dec/2022 17:05:45] "[33mGET /static/js/popper.js HTTP/1.1[0m" 404 -
+[2022-12-26 17:05:45,772] p10568 {C:\Users\IT\PycharmProjects\flaskblog\venv\lib\site-packages\werkzeug\_internal.py:224} INFO - 127.0.0.1 - - [26/Dec/2022 17:05:45] "[33mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 404 -
+[2022-12-26 17:05:45,939] p10568 {C:\Users\IT\PycharmProjects\flaskblog\venv\lib\site-packages\werkzeug\_internal.py:224} INFO - 127.0.0.1 - - [26/Dec/2022 17:05:45] "GET /search?q= HTTP/1.1" 200 -
+[2022-12-26 17:05:45,976] p10568 {C:\Users\IT\PycharmProjects\flaskblog\venv\lib\site-packages\werkzeug\_internal.py:224} INFO - 127.0.0.1 - - [26/Dec/2022 17:05:45] "[33mGET /static/js/jquery-3.2.1.min.js HTTP/1.1[0m" 404 -
+[2022-12-26 17:05:45,982] p10568 {C:\Users\IT\PycharmProjects\flaskblog\venv\lib\site-packages\werkzeug\_internal.py:224} INFO - 127.0.0.1 - - [26/Dec/2022 17:05:45] "[33mGET /static/js/popper.js HTTP/1.1[0m" 404 -
+[2022-12-26 17:05:45,986] p10568 {C:\Users\IT\PycharmProjects\flaskblog\venv\lib\site-packages\werkzeug\_internal.py:224} INFO - 127.0.0.1 - - [26/Dec/2022 17:05:45] "[33mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 404 -
+[2022-12-26 17:05:45,990] p10568 {C:\Users\IT\PycharmProjects\flaskblog\venv\lib\site-packages\werkzeug\_internal.py:224} INFO - 127.0.0.1 - - [26/Dec/2022 17:05:45] "[33mGET /static/images/logo.png HTTP/1.1[0m" 404 -
+[2022-12-26 17:05:46,141] p10568 {C:\Users\IT\PycharmProjects\flaskblog\venv\lib\site-packages\werkzeug\_internal.py:224} INFO - 127.0.0.1 - - [26/Dec/2022 17:05:46] "GET /search?q= HTTP/1.1" 200 -
+[2022-12-26 17:05:46,185] p10568 {C:\Users\IT\PycharmProjects\flaskblog\venv\lib\site-packages\werkzeug\_internal.py:224} INFO - 127.0.0.1 - - [26/Dec/2022 17:05:46] "[33mGET /static/images/logo.png HTTP/1.1[0m" 404 -
+[2022-12-26 17:05:46,192] p10568 {C:\Users\IT\PycharmProjects\flaskblog\venv\lib\site-packages\werkzeug\_internal.py:224} INFO - 127.0.0.1 - - [26/Dec/2022 17:05:46] "[33mGET /static/js/jquery-3.2.1.min.js HTTP/1.1[0m" 404 -
+[2022-12-26 17:05:46,197] p10568 {C:\Users\IT\PycharmProjects\flaskblog\venv\lib\site-packages\werkzeug\_internal.py:224} INFO - 127.0.0.1 - - [26/Dec/2022 17:05:46] "[33mGET /static/js/popper.js HTTP/1.1[0m" 404 -
+[2022-12-26 17:05:46,202] p10568 {C:\Users\IT\PycharmProjects\flaskblog\venv\lib\site-packages\werkzeug\_internal.py:224} INFO - 127.0.0.1 - - [26/Dec/2022 17:05:46] "[33mGET /static/js/bootstrap.min.js HTTP/1.1[0m" 404 -
+[2022-12-26 17:19:03,594] p22352 {C:\Users\IT\PycharmProjects\flaskblog\app.py:278} INFO - Logging is set up.
+[2022-12-26 17:19:03,620] p22352 {C:\Users\IT\PycharmProjects\flaskblog\venv\lib\site-packages\werkzeug\_internal.py:224} INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8948
+[2022-12-26 17:19:03,621] p22352 {C:\Users\IT\PycharmProjects\flaskblog\venv\lib\site-packages\werkzeug\_internal.py:224} INFO - [33mPress CTRL+C to quit[0m
+[2022-12-26 17:38:13,731] p20328 {C:\Users\IT\PycharmProjects\flaskblog\app.py:278} INFO - Logging is set up.
+[2022-12-26 17:38:13,749] p20328 {C:\Users\IT\PycharmProjects\flaskblog\venv\lib\site-packages\werkzeug\_internal.py:224} INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8948
+[2022-12-26 17:38:13,750] p20328 {C:\Users\IT\PycharmProjects\flaskblog\venv\lib\site-packages\werkzeug\_internal.py:224} INFO - [33mPress CTRL+C to quit[0m
